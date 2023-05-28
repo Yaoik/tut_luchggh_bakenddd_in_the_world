@@ -1,0 +1,1437 @@
+[
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.contrib.auth.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "pagination",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "rest_framework.request",
+        "description": "rest_framework.request",
+        "isExtraImport": true,
+        "detail": "rest_framework.request",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "rest_framework.request",
+        "description": "rest_framework.request",
+        "isExtraImport": true,
+        "detail": "rest_framework.request",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "format_suffix_patterns",
+        "importPath": "rest_framework.urlpatterns",
+        "description": "rest_framework.urlpatterns",
+        "isExtraImport": true,
+        "detail": "rest_framework.urlpatterns",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "JSONRenderer",
+        "importPath": "rest_framework.renderers",
+        "description": "rest_framework.renderers",
+        "isExtraImport": true,
+        "detail": "rest_framework.renderers",
+        "documentation": {}
+    },
+    {
+        "label": "TemplateHTMLRenderer",
+        "importPath": "rest_framework.renderers",
+        "description": "rest_framework.renderers",
+        "isExtraImport": true,
+        "detail": "rest_framework.renderers",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "QuerySet",
+        "importPath": "django.db.models.query",
+        "description": "django.db.models.query",
+        "isExtraImport": true,
+        "detail": "django.db.models.query",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "renderer_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "action",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0001_initial",
+        "description": "api.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Post',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "api.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0002_profession",
+        "description": "api.migrations.0002_profession",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('api', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Profession',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "api.migrations.0002_profession",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0003_alter_profession_id",
+        "description": "api.migrations.0003_alter_profession_id",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('api', '0002_profession'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='profession',\n            name='id',\n            field=models.AutoField(primary_key=True, serialize=False),\n        ),",
+        "detail": "api.migrations.0003_alter_profession_id",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0004_delete_profession",
+        "description": "api.migrations.0004_delete_profession",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('api', '0003_alter_profession_id'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='Profession',\n        ),\n    ]",
+        "detail": "api.migrations.0004_delete_profession",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0005_comment",
+        "description": "api.migrations.0005_comment",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('api', '0004_delete_profession'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Comment',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "api.migrations.0005_comment",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0006_role_user",
+        "description": "api.migrations.0006_role_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n        ('api', '0005_comment'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Role',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "api.migrations.0006_role_user",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0007_delete_user",
+        "description": "api.migrations.0007_delete_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('api', '0006_role_user'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='User',\n        ),\n    ]",
+        "detail": "api.migrations.0007_delete_user",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0008_dish_dishhasorder_order_delete_role_and_more",
+        "description": "api.migrations.0008_dish_dishhasorder_order_delete_role_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('api', '0007_delete_user'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Dish',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.TextField()),",
+        "detail": "api.migrations.0008_dish_dishhasorder_order_delete_role_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0009_order_cook_order_waiter",
+        "description": "api.migrations.0009_order_cook_order_waiter",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('api', '0008_dish_dishhasorder_order_delete_role_and_more'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='order',\n            name='cook',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, related_name='cook', to=settings.AUTH_USER_MODEL),",
+        "detail": "api.migrations.0009_order_cook_order_waiter",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0010_status",
+        "description": "api.migrations.0010_status",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('api', '0009_order_cook_order_waiter'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Status',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.TextField()),",
+        "detail": "api.migrations.0010_status",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0011_order_status",
+        "description": "api.migrations.0011_order_status",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('api', '0010_status'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='order',\n            name='status',\n            field=models.ForeignKey(default=5, on_delete=django.db.models.deletion.SET_DEFAULT, related_name='status', to='api.status'),\n        ),",
+        "detail": "api.migrations.0011_order_status",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0012_remove_order_cook",
+        "description": "api.migrations.0012_remove_order_cook",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('api', '0011_order_status'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='order',\n            name='cook',\n        ),\n    ]",
+        "detail": "api.migrations.0012_remove_order_cook",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0013_alter_order_status",
+        "description": "api.migrations.0013_alter_order_status",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('api', '0012_remove_order_cook'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='order',\n            name='status',\n            field=models.ForeignKey(default=5, on_delete=django.db.models.deletion.SET_DEFAULT, related_name='statuss', to='api.status'),\n        ),",
+        "detail": "api.migrations.0013_alter_order_status",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0014_rename_status_order_statuss",
+        "description": "api.migrations.0014_rename_status_order_statuss",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('api', '0013_alter_order_status'),\n    ]\n    operations = [\n        migrations.RenameField(\n            model_name='order',\n            old_name='status',\n            new_name='statuss',\n        ),",
+        "detail": "api.migrations.0014_rename_status_order_statuss",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0015_order_cook",
+        "description": "api.migrations.0015_order_cook",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('api', '0014_rename_status_order_statuss'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='order',\n            name='cook',\n            field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, related_name='cook', to=settings.AUTH_USER_MODEL),",
+        "detail": "api.migrations.0015_order_cook",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0016_shift_alter_dishhasorder_count_and_more",
+        "description": "api.migrations.0016_shift_alter_dishhasorder_count_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('api', '0015_order_cook'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Shift',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "api.migrations.0016_shift_alter_dishhasorder_count_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "api.migrations.0017_alter_order_statuss",
+        "description": "api.migrations.0017_alter_order_statuss",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('api', '0016_shift_alter_dishhasorder_count_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='order',\n            name='statuss',\n            field=models.ForeignKey(default=8, on_delete=django.db.models.deletion.CASCADE, related_name='statuss', to='api.status'),\n        ),",
+        "detail": "api.migrations.0017_alter_order_statuss",
+        "documentation": {}
+    },
+    {
+        "label": "ApiConfig",
+        "kind": 6,
+        "importPath": "api.apps",
+        "description": "api.apps",
+        "peekOfCode": "class ApiConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'api'",
+        "detail": "api.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Post",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class Post(models.Model):\n    created = models.DateTimeField(auto_now_add=True)\n    title = models.CharField(max_length=100, blank=True, default='')\n    body = models.TextField(blank=True, default='')\n    owner = models.ForeignKey('auth.User', related_name='posts', on_delete=models.CASCADE)\n    class Meta:\n        ordering = ['created']\nclass Comment(models.Model):\n    created = models.DateTimeField(auto_now_add=True)\n    body = models.TextField(blank=False)",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Comment",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class Comment(models.Model):\n    created = models.DateTimeField(auto_now_add=True)\n    body = models.TextField(blank=False)\n    owner = models.ForeignKey('auth.User', related_name='comments', on_delete=models.CASCADE)\n    post = models.ForeignKey('Post', related_name='comments', on_delete=models.CASCADE)\n    class Meta:\n        ordering = ['created']\nclass Status(models.Model):\n    name = models.TextField(blank=False)\nclass Dish(models.Model):",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Status",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class Status(models.Model):\n    name = models.TextField(blank=False)\nclass Dish(models.Model):\n    name = models.TextField(blank=False)\n    cost = models.IntegerField()\nclass Order(models.Model):\n    created = models.DateTimeField(auto_now_add=True, blank=False)\n    waiter = models.ForeignKey('auth.User', related_name='waiter', on_delete=models.CASCADE, blank=False)\n    cook = models.ForeignKey('auth.User', related_name='cook', on_delete=models.CASCADE, null=True)\n    statuss = models.ForeignKey('Status', related_name='statuss', on_delete=models.CASCADE, default=1)",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Dish",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class Dish(models.Model):\n    name = models.TextField(blank=False)\n    cost = models.IntegerField()\nclass Order(models.Model):\n    created = models.DateTimeField(auto_now_add=True, blank=False)\n    waiter = models.ForeignKey('auth.User', related_name='waiter', on_delete=models.CASCADE, blank=False)\n    cook = models.ForeignKey('auth.User', related_name='cook', on_delete=models.CASCADE, null=True)\n    statuss = models.ForeignKey('Status', related_name='statuss', on_delete=models.CASCADE, default=1)\nclass DishHasOrder(models.Model):\n    order = models.ForeignKey('Order', related_name='dishs', on_delete=models.CASCADE)",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class Order(models.Model):\n    created = models.DateTimeField(auto_now_add=True, blank=False)\n    waiter = models.ForeignKey('auth.User', related_name='waiter', on_delete=models.CASCADE, blank=False)\n    cook = models.ForeignKey('auth.User', related_name='cook', on_delete=models.CASCADE, null=True)\n    statuss = models.ForeignKey('Status', related_name='statuss', on_delete=models.CASCADE, default=1)\nclass DishHasOrder(models.Model):\n    order = models.ForeignKey('Order', related_name='dishs', on_delete=models.CASCADE)\n    dish = models.ForeignKey('Dish', related_name='dishs', on_delete=models.CASCADE)\n    count = models.IntegerField(blank=True)\nclass Shift(models.Model):",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "DishHasOrder",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class DishHasOrder(models.Model):\n    order = models.ForeignKey('Order', related_name='dishs', on_delete=models.CASCADE)\n    dish = models.ForeignKey('Dish', related_name='dishs', on_delete=models.CASCADE)\n    count = models.IntegerField(blank=True)\nclass Shift(models.Model):\n    data_start = models.DateTimeField()\n    data_end = models.DateTimeField()\n    #user_on_shift = models.ManyToManyField('User')\nclass UserOnShift(models.Model):\n    user = models.ForeignKey('auth.User', related_name='user', on_delete=models.CASCADE)",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "Shift",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class Shift(models.Model):\n    data_start = models.DateTimeField()\n    data_end = models.DateTimeField()\n    #user_on_shift = models.ManyToManyField('User')\nclass UserOnShift(models.Model):\n    user = models.ForeignKey('auth.User', related_name='user', on_delete=models.CASCADE)\n    shift = models.ForeignKey('Shift', related_name='shift', on_delete=models.CASCADE)\n#@permission_required",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserOnShift",
+        "kind": 6,
+        "importPath": "api.models",
+        "description": "api.models",
+        "peekOfCode": "class UserOnShift(models.Model):\n    user = models.ForeignKey('auth.User', related_name='user', on_delete=models.CASCADE)\n    shift = models.ForeignKey('Shift', related_name='shift', on_delete=models.CASCADE)\n#@permission_required",
+        "detail": "api.models",
+        "documentation": {}
+    },
+    {
+        "label": "CustomPagination",
+        "kind": 6,
+        "importPath": "api.paginations",
+        "description": "api.paginations",
+        "peekOfCode": "class CustomPagination(pagination.PageNumberPagination):\n    def get_paginated_response(self, data):\n        return Response({\n            'links': {\n                'next': self.get_next_link(),\n                'previous': self.get_previous_link()\n            },\n            'count': self.page.paginator.count,\n            'results': data\n        })",
+        "detail": "api.paginations",
+        "documentation": {}
+    },
+    {
+        "label": "IsOwnerOrReadOnly",
+        "kind": 6,
+        "importPath": "api.permisisions",
+        "description": "api.permisisions",
+        "peekOfCode": "class IsOwnerOrReadOnly(permissions.BasePermission):\n    def has_object_permission(self, request, view, obj):\n        if request.method in permissions.SAFE_METHODS:\n            return True\n        return obj.owner == request.user\nclass IsWaiterOrReadOnly(permissions.BasePermission):\n    def has_object_permission(self, request:Request, view, obj):\n        if request.method in permissions.SAFE_METHODS:\n            return True\n        return request.user.groups.filter(name__in=['Официант']).exists()",
+        "detail": "api.permisisions",
+        "documentation": {}
+    },
+    {
+        "label": "IsWaiterOrReadOnly",
+        "kind": 6,
+        "importPath": "api.permisisions",
+        "description": "api.permisisions",
+        "peekOfCode": "class IsWaiterOrReadOnly(permissions.BasePermission):\n    def has_object_permission(self, request:Request, view, obj):\n        if request.method in permissions.SAFE_METHODS:\n            return True\n        return request.user.groups.filter(name__in=['Официант']).exists()\nclass IsСookOrReadOnly(permissions.BasePermission):\n    def has_object_permission(self, request:Request, view, obj):\n        if request.method in permissions.SAFE_METHODS:\n            return True\n        return request.user.groups.filter(name__in=['Повар']).exists()",
+        "detail": "api.permisisions",
+        "documentation": {}
+    },
+    {
+        "label": "IsСookOrReadOnly",
+        "kind": 6,
+        "importPath": "api.permisisions",
+        "description": "api.permisisions",
+        "peekOfCode": "class IsСookOrReadOnly(permissions.BasePermission):\n    def has_object_permission(self, request:Request, view, obj):\n        if request.method in permissions.SAFE_METHODS:\n            return True\n        return request.user.groups.filter(name__in=['Повар']).exists()\nclass IsAdminOrReadOnly(permissions.BasePermission):\n    def has_object_permission(self, request:Request, view, obj):\n        if request.method in permissions.SAFE_METHODS:\n            return True\n        return request.user.groups.filter(name__in=['Админ']).exists()",
+        "detail": "api.permisisions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAdminOrReadOnly",
+        "kind": 6,
+        "importPath": "api.permisisions",
+        "description": "api.permisisions",
+        "peekOfCode": "class IsAdminOrReadOnly(permissions.BasePermission):\n    def has_object_permission(self, request:Request, view, obj):\n        if request.method in permissions.SAFE_METHODS:\n            return True\n        return request.user.groups.filter(name__in=['Админ']).exists()",
+        "detail": "api.permisisions",
+        "documentation": {}
+    },
+    {
+        "label": "DishSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class DishSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Dish\n        fields = ['id', 'name', 'cost']\n#cook = serializers.PrimaryKeyRelatedField(many=False, source='cook.username', default=None, read_only=True)\n#statuss = serializers.PrimaryKeyRelatedField(many=False, read_only=True, source='statuss.name', default=6) \nclass OrderSerializer(serializers.ModelSerializer):\n    waiter = serializers.ReadOnlyField(source='waiter.username')\n    dishs = serializers.PrimaryKeyRelatedField(many=True, read_only=True) \n    class Meta:",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "OrderSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class OrderSerializer(serializers.ModelSerializer):\n    waiter = serializers.ReadOnlyField(source='waiter.username')\n    dishs = serializers.PrimaryKeyRelatedField(many=True, read_only=True) \n    class Meta:\n        model = Order\n        fields = ['id', 'created', 'waiter', 'cook', 'statuss', 'dishs']\n        depth = 0\nclass DishHasOrderSerializer(serializers.ModelSerializer):\n    order = serializers.PrimaryKeyRelatedField(many=False, read_only=True)\n    #dish = serializers.SlugRelatedField(many=False, read_only=True, slug_field='name') ",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "DishHasOrderSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class DishHasOrderSerializer(serializers.ModelSerializer):\n    order = serializers.PrimaryKeyRelatedField(many=False, read_only=True)\n    #dish = serializers.SlugRelatedField(many=False, read_only=True, slug_field='name') \n    #dish = serializers.HyperlinkedIdentityField(many=False, read_only=True, view_name='name')\n    class Meta:\n        model = DishHasOrder\n        fields = ['id', 'order', 'dish', 'count']\n        depth = 0\nclass PostSerializer(serializers.ModelSerializer):\n    owner = serializers.ReadOnlyField(source='owner.username')",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "PostSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class PostSerializer(serializers.ModelSerializer):\n    owner = serializers.ReadOnlyField(source='owner.username')\n    comments = serializers.PrimaryKeyRelatedField(many=True, read_only=True)\n    class Meta:\n        model = Post\n        fields = ['id', 'title', 'body', 'owner', 'comments']\nclass UserSerializer(serializers.ModelSerializer):\n    #posts = serializers.PrimaryKeyRelatedField(many=True, read_only=True)\n    #comments = serializers.PrimaryKeyRelatedField(many=True, read_only=True)\n    groups = serializers.SlugRelatedField(many=True, read_only=False, slug_field='name', queryset=Group.objects.all()) ",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class UserSerializer(serializers.ModelSerializer):\n    #posts = serializers.PrimaryKeyRelatedField(many=True, read_only=True)\n    #comments = serializers.PrimaryKeyRelatedField(many=True, read_only=True)\n    groups = serializers.SlugRelatedField(many=True, read_only=False, slug_field='name', queryset=Group.objects.all()) \n    password = serializers.CharField(write_only=True)\n    class Meta:\n        model = User\n        fields = ['id', 'username', 'password', 'groups']\nclass CommentSerializer(serializers.ModelSerializer):\n    owner = serializers.ReadOnlyField(source='owner.username')",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CommentSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class CommentSerializer(serializers.ModelSerializer):\n    owner = serializers.ReadOnlyField(source='owner.username')\n    class Meta:\n        model = Comment\n        fields = ['id', 'body', 'owner', 'post']\nclass StatusSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Status\n        fields = ['id', 'name']\nclass ShiftSerializer(serializers.ModelSerializer):",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "StatusSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class StatusSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Status\n        fields = ['id', 'name']\nclass ShiftSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Shift\n        fields = ['id', 'data_start', 'data_end']\n    def get_now():\n        queryset = Shift.objects.filter(data_start__lt=datetime.now())&Shift.objects.filter(data_end__gt=datetime.now())",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ShiftSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class ShiftSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Shift\n        fields = ['id', 'data_start', 'data_end']\n    def get_now():\n        queryset = Shift.objects.filter(data_start__lt=datetime.now())&Shift.objects.filter(data_end__gt=datetime.now())\n        n = [ShiftSerializer(i).data for i in queryset]\n        if len(n)>0:\n            return n[0]\n        return []",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "UserOnShiftSerializer",
+        "kind": 6,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "class UserOnShiftSerializer(serializers.ModelSerializer):\n    #user = serializers.SlugRelatedField(many=False, read_only=True, slug_field='username') \n    shift = serializers.SlugRelatedField(many=False, read_only=True, slug_field='data_start') \n    class Meta:\n        model = UserOnShift\n        fields = ['id', 'user', 'shift']",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "#cook",
+        "kind": 5,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "#cook = serializers.PrimaryKeyRelatedField(many=False, source='cook.username', default=None, read_only=True)\n#statuss = serializers.PrimaryKeyRelatedField(many=False, read_only=True, source='statuss.name', default=6) \nclass OrderSerializer(serializers.ModelSerializer):\n    waiter = serializers.ReadOnlyField(source='waiter.username')\n    dishs = serializers.PrimaryKeyRelatedField(many=True, read_only=True) \n    class Meta:\n        model = Order\n        fields = ['id', 'created', 'waiter', 'cook', 'statuss', 'dishs']\n        depth = 0\nclass DishHasOrderSerializer(serializers.ModelSerializer):",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "#statuss",
+        "kind": 5,
+        "importPath": "api.serializers",
+        "description": "api.serializers",
+        "peekOfCode": "#statuss = serializers.PrimaryKeyRelatedField(many=False, read_only=True, source='statuss.name', default=6) \nclass OrderSerializer(serializers.ModelSerializer):\n    waiter = serializers.ReadOnlyField(source='waiter.username')\n    dishs = serializers.PrimaryKeyRelatedField(many=True, read_only=True) \n    class Meta:\n        model = Order\n        fields = ['id', 'created', 'waiter', 'cook', 'statuss', 'dishs']\n        depth = 0\nclass DishHasOrderSerializer(serializers.ModelSerializer):\n    order = serializers.PrimaryKeyRelatedField(many=False, read_only=True)",
+        "detail": "api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "api.urls",
+        "description": "api.urls",
+        "peekOfCode": "urlpatterns = [\n    path('users/', views.UserList.as_view()),\n    path('users/<int:pk>/', views.UserDetail.as_view()),\n]\nurlpatterns += [\n    path('order/', views.OrderList.as_view()),\n    path('orders/', views.OrderList.get_gotovitsay),\n    path('order/<int:pk>/', views.OrderDetail.as_view()),\n    path('order/<int:pk>/add_dish', views.DishHasOrderList.as_view()),\n    path('order/<int:pk>/dishs', views.DishHasOrderList.id_list),",
+        "detail": "api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "api.urls",
+        "description": "api.urls",
+        "peekOfCode": "urlpatterns = format_suffix_patterns(urlpatterns)",
+        "detail": "api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "PostList",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class PostList(generics.ListCreateAPIView):\n    queryset = Post.objects.all()\n    serializer_class = serializers.PostSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    def perform_create(self, serializer):\n        serializer.save(owner=self.request.user)\nclass PostDetail(generics.RetrieveUpdateDestroyAPIView):\n    queryset = Post.objects.all()\n    serializer_class = serializers.PostSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsOwnerOrReadOnly]",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "PostDetail",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class PostDetail(generics.RetrieveUpdateDestroyAPIView):\n    queryset = Post.objects.all()\n    serializer_class = serializers.PostSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsOwnerOrReadOnly]\nclass UserList(generics.ListCreateAPIView):\n    queryset = User.objects.all()\n    serializer_class = serializers.UserSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsAdminOrReadOnly]\n    def perform_create(self, serializer:serializers.UserSerializer):\n        user = User.objects.create_user(",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserList",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class UserList(generics.ListCreateAPIView):\n    queryset = User.objects.all()\n    serializer_class = serializers.UserSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsAdminOrReadOnly]\n    def perform_create(self, serializer:serializers.UserSerializer):\n        user = User.objects.create_user(\n                username=serializer.validated_data['username'],\n                password=serializer.validated_data['password'],\n            )\n        return Response(serializers.UserSerializer(user).data)",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetail",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class UserDetail(generics.RetrieveUpdateDestroyAPIView):\n    queryset = User.objects.all()\n    serializer_class = serializers.UserSerializer   \n    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsAdminOrReadOnly]\n    def put(self, request:Request, *args, **kwargs):\n        print(f'{request.data=}')\n        print(f'{args=}')\n        print(f'{kwargs=}')\n        print(f'{User.objects.get(pk=kwargs[\"pk\"])=}')\n        user = User.objects.get(pk=kwargs['pk'])",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "CommentList",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class CommentList(generics.ListCreateAPIView):\n    queryset = Comment.objects.all()\n    serializer_class = serializers.CommentSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    def perform_create(self, serializer):\n        serializer.save(owner=self.request.user)\nclass CommentDetail(generics.RetrieveUpdateDestroyAPIView):\n    queryset = Comment.objects.all()\n    serializer_class = serializers.CommentSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsOwnerOrReadOnly]",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "CommentDetail",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class CommentDetail(generics.RetrieveUpdateDestroyAPIView):\n    queryset = Comment.objects.all()\n    serializer_class = serializers.CommentSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsOwnerOrReadOnly]\nclass DishList(generics.ListCreateAPIView):\n    queryset = Dish.objects.all()\n    serializer_class = serializers.DishSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\nclass DishDetail(generics.RetrieveUpdateDestroyAPIView):\n    queryset = Dish.objects.all()",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "DishList",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class DishList(generics.ListCreateAPIView):\n    queryset = Dish.objects.all()\n    serializer_class = serializers.DishSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\nclass DishDetail(generics.RetrieveUpdateDestroyAPIView):\n    queryset = Dish.objects.all()\n    serializer_class = serializers.DishSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\nclass OrderList(generics.ListCreateAPIView):\n    queryset = Order.objects.all()",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "DishDetail",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class DishDetail(generics.RetrieveUpdateDestroyAPIView):\n    queryset = Dish.objects.all()\n    serializer_class = serializers.DishSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\nclass OrderList(generics.ListCreateAPIView):\n    queryset = Order.objects.all()\n    serializer_class = serializers.OrderSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsWaiterOrReadOnly]\n    def perform_create(self, serializer:serializers.OrderSerializer):\n        if serializer.is_valid():",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "OrderList",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class OrderList(generics.ListCreateAPIView):\n    queryset = Order.objects.all()\n    serializer_class = serializers.OrderSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsWaiterOrReadOnly]\n    def perform_create(self, serializer:serializers.OrderSerializer):\n        if serializer.is_valid():\n            serializer.save(waiter=self.request.user, statuss=Status.objects.get(pk=1), cook=None)\n    @api_view(['GET'])\n    @renderer_classes([JSONRenderer])\n    def get_gotovitsay(request:Request, *args, **kwargs):",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "OrderDetail",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class OrderDetail(generics.RetrieveUpdateDestroyAPIView):\n    queryset = Order.objects.all()\n    serializer_class = serializers.OrderSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsСookOrReadOnly|IsWaiterOrReadOnly]\n    def put(self, request:Request, pk, format=None):\n        order = self.get_object()\n        serializer = serializers.OrderSerializer(order, data=request.data)\n        if serializer.is_valid():\n            if order.cook == '':\n                if order.cook != request.data.get('cook', None):",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "DishHasOrderList",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class DishHasOrderList(generics.ListCreateAPIView):\n    queryset = DishHasOrder.objects.all()\n    serializer_class = serializers.DishHasOrderSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsWaiterOrReadOnly]\n    def perform_create(self, serializer: serializers.DishHasOrderSerializer, *args, **kwargs):\n        serializer.is_valid(raise_exception=True)\n        queryset = DishHasOrder.objects.filter(order=self.kwargs['pk'], dish=serializer.validated_data.get('dish'))\n        if queryset.count()>0:\n            queryset.delete()\n        serializer.save(order=Order.objects.get(pk=self.kwargs['pk']))",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "DishHasOrderDetail",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class DishHasOrderDetail(generics.RetrieveUpdateDestroyAPIView):\n    queryset = DishHasOrder.objects.all()\n    serializer_class = serializers.DishHasOrderSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    def put(self, request:Request, pk, format=None):\n        order = self.get_object()\n        serializer = serializers.OrderSerializer(order, data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data)",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ShiftList",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class ShiftList(generics.ListCreateAPIView):\n    queryset = Shift.objects.all()\n    serializer_class = serializers.ShiftSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsAdminOrReadOnly]\n    def perform_create(self, serializer:serializers.UserOnShiftSerializer):\n        if serializer.is_valid():\n            print(f\"{self.queryset.filter(data_start__range=(serializer.validated_data['data_start'], serializer.validated_data['data_end']))=}\")\n            print(f\"{self.queryset.filter(data_end__range=(serializer.validated_data['data_start'], serializer.validated_data['data_end']))=}\")\n            print(f\"{serializer.validated_data['data_start']<serializer.validated_data['data_end']=}\")\n            if not (self.queryset.filter(data_start__range=(serializer.validated_data['data_start'], serializer.validated_data['data_end'])) or self.queryset.filter(data_end__range=(serializer.validated_data['data_start'], serializer.validated_data['data_end'])) or serializer.validated_data['data_start']>=serializer.validated_data['data_end']):",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ShiftDetail",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class ShiftDetail(generics.RetrieveUpdateDestroyAPIView):\n    queryset = Shift.objects.all()\n    serializer_class = serializers.ShiftSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsAdminOrReadOnly]\n    def put(self, request:Request, pk, format=None):\n        shift = self.get_object()\n        serializer = serializers.ShiftSerializer(shift, data=request.data)\n        if serializer.is_valid():\n            if not (self.queryset.filter(data_start__range=(request.data['data_start'], request.data['data_end'])).exists() or self.queryset.filter(data_end__range=(request.data['data_start'], request.data['data_end'])).exists()):\n                serializer.save()",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserOnShiftList",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class UserOnShiftList(generics.ListCreateAPIView):\n    queryset = UserOnShift.objects.all()\n    serializer_class = serializers.UserOnShiftSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsAdminOrReadOnly]\n    def perform_create(self, serializer:serializers.UserOnShiftSerializer):\n        print(f'{self.kwargs=}')\n        if serializer.is_valid():\n            serializer.save(shift=Shift.objects.get(pk=self.kwargs['pk']))\n    @api_view(['GET'])\n    @renderer_classes([JSONRenderer])",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserOnShiftDetail",
+        "kind": 6,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "class UserOnShiftDetail(generics.RetrieveUpdateDestroyAPIView):\n    queryset = UserOnShift.objects.all()\n    serializer_class = serializers.UserOnShiftSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly, IsAdminOrReadOnly]",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "is_cook",
+        "kind": 2,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "def is_cook(user):\n    return user.groups.filter(name__in=['Повар']).exists()\ndef is_waiter(user):\n    return user.groups.filter(name__in=['Официант']).exists()\ndef is_admin(user):\n    return user.groups.filter(name__in=['Админ']).exists()\nclass PostList(generics.ListCreateAPIView):\n    queryset = Post.objects.all()\n    serializer_class = serializers.PostSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "is_waiter",
+        "kind": 2,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "def is_waiter(user):\n    return user.groups.filter(name__in=['Официант']).exists()\ndef is_admin(user):\n    return user.groups.filter(name__in=['Админ']).exists()\nclass PostList(generics.ListCreateAPIView):\n    queryset = Post.objects.all()\n    serializer_class = serializers.PostSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    def perform_create(self, serializer):\n        serializer.save(owner=self.request.user)",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "is_admin",
+        "kind": 2,
+        "importPath": "api.views",
+        "description": "api.views",
+        "peekOfCode": "def is_admin(user):\n    return user.groups.filter(name__in=['Админ']).exists()\nclass PostList(generics.ListCreateAPIView):\n    queryset = Post.objects.all()\n    serializer_class = serializers.PostSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    def perform_create(self, serializer):\n        serializer.save(owner=self.request.user)\nclass PostDetail(generics.RetrieveUpdateDestroyAPIView):\n    queryset = Post.objects.all()",
+        "detail": "api.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "WEB.asgi",
+        "description": "WEB.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "WEB.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-2k$$r7ka4f1*y6f9b6()o)*(6sohtyk_s+#*6k=1w#wjle_%1g'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-2k$$r7ka4f1*y6f9b6()o)*(6sohtyk_s+#*6k=1w#wjle_%1g'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'api.apps.ApiConfig',\n    'django_extensions',",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'WEB.urls'",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "ROOT_URLCONF = 'WEB.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_PAGINATION_CLASS': 'api.paginations.CustomPagination',\n    'PAGE_SIZE': 20\n}\nWSGI_APPLICATION = 'WEB.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'WEB.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "WEB.settings",
+        "description": "WEB.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "WEB.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "WEB.urls",
+        "description": "WEB.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('api.urls')),\n]\nurlpatterns += [\n    path('api-auth/', include('rest_framework.urls')),\n]",
+        "detail": "WEB.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "WEB.wsgi",
+        "description": "WEB.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "WEB.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'WEB.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
